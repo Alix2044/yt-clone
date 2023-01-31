@@ -10,15 +10,9 @@ const firebaseConfig = {
   measurementId: "G-4TZZM7PX1S"
 };
 const app = initializeApp(firebaseConfig)
-const auth = getAuth()
-connectAuthEmulator(auth,"http://localhost:19006")
 
-const email = "email@gmail.com"
-const password = "123"
-createUserWithEmailAndPassword(auth,email,password).then((userCredential)=>{
-  const user = userCredential.user
-  console.log(user)
-})
+
+
 
 
 

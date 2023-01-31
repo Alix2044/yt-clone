@@ -1,4 +1,4 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet, Button} from 'react-native';
 
 
 import EditScreenInfo from '../components/EditScreenInfo';

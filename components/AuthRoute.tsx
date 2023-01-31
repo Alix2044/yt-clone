@@ -1,4 +1,4 @@
-import React from "react"
+/*import React from "react"
 import {getAuth} from "firebase/auth"
 
 
@@ -11,3 +11,4 @@ const AuthRoute: React.FunctionComponent<AuthRouteProps> = (props) =>{
     
 
 }
+Ø*/
